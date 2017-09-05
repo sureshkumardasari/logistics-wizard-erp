@@ -1,0 +1,12 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "postgresql",
+    "database": "zinzopqg",
+    "host": "echo.db.elephantsql.com",
+    "port": "5432",
+    "username": "zinzopqg",
+    "password": "CMX7AG0LIKAxmeuFO4UTWDiNhaOB0CAe",
+    "max": 3
+  }
+}
