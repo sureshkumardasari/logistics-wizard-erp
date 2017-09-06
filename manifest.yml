@@ -6,6 +6,6 @@ declared-services:
 services:
   - logistics-wizard-erp-db
 applications:
-  - name: logistics-wizard-erp
-    host: logistics-wizard-erp
+  - name: dev-logistics-wizard-toolchain-20170905145837835-erp
+    host: dev-logistics-wizard-toolchain-20170905145837835-erp
     memory: 256M
